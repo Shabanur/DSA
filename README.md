@@ -11,7 +11,9 @@ I am currently learning and improving my problem-solving skills step by step.
 - Lowercase & Uppercase conversion  
 - Sum problems  
 - Ternary Operator  
-- Unary Operator  
+- Unary Operator
+- do_while loop
+- prime number detection
 
 ## Current Status
 
